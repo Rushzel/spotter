@@ -1,6 +1,6 @@
 # Coach client manager: specification
 
-**Status: draft for Kidd's review.** Working name "Coachbook", to be renamed.
+**Status: draft for Kidd's review.** Name: **Spotter** (chosen 5 Nov 2026; the working name was Coachbook).
 
 A web app that lets one coach, or a small coaching business, run many clients: profiles, training programmes, weekly check-ins and progress, session scheduling and session packages. Clients get their own portal to see their programme, log workouts, submit check-ins and book sessions.
 
